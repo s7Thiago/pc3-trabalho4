@@ -1,9 +1,9 @@
-package br.com.prog3.semanapratica2.controller;
+package com.prog3.trabalho4.trabalho4.controller;
 
 import java.util.List;
 
-import br.com.prog3.semanapratica2.model.Dependente;
-import br.com.prog3.semanapratica2.persistence.DependenteDAOImpl;
+import com.prog3.trabalho4.trabalho4.model.Dependente;
+import com.prog3.trabalho4.trabalho4.persistence.DependenteDAOImpl;
 
 public class DependenteController {
 

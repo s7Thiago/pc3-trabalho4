@@ -4,9 +4,9 @@
     <session-factory>
         <!-- Database connection settings -->
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://localhost:5432/trabalho4</property>
+        <property name="connection.url">jdbc:postgresql://localhost:5432/semanadepratica2</property>
         <property name="connection.username">postgres</property>
-        <property name="connection.password">xxxxxxx</property>
+        <property name="connection.password">844246</property>
         <property name="hibernate.enable_lazy_load_no_trans">true</property>
         <!-- JDBC connection pool (use the built-in) -->
         <!-- <property name="connection.pool_size">1</property> -->
@@ -23,7 +23,7 @@ der</property> -->
         <property name="show_sql">true</property>
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">update</property>
-        <mapping class="br.com.prog3.semanapratica2.model.Empregado" />
-        <mapping class="br.com.prog3.semanapratica2.model.Dependente" />
+        <mapping class="com.prog3.trabalho4.trabalho4.model.Empregado" />
+        <mapping class="com.prog3.trabalho4.trabalho4.model.Dependente" />
     </session-factory>
 </hibernate-configuration>

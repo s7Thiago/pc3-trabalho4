@@ -1,12 +1,12 @@
-package br.com.prog3.semanapratica2.util;
+package com.prog3.trabalho4.trabalho4.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
-import br.com.prog3.semanapratica2.model.Dependente;
-import br.com.prog3.semanapratica2.model.Empregado;
+import com.prog3.trabalho4.trabalho4.model.Dependente;
+import com.prog3.trabalho4.trabalho4.model.Empregado;
 
 public class HibernateUtil {
     private static SessionFactory sessionFactory;

@@ -1,4 +1,4 @@
-package br.com.prog3.semanapratica2.model;
+package com.prog3.trabalho4.trabalho4.model;
 
 import java.io.Serializable;
 import java.sql.Date;

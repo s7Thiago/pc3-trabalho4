@@ -1,9 +1,9 @@
-package br.com.prog3.semanapratica2.controller;
+package com.prog3.trabalho4.trabalho4.controller;
 
 import java.util.List;
 
-import br.com.prog3.semanapratica2.model.Empregado;
-import br.com.prog3.semanapratica2.persistence.EmpregadoDAOImpl;
+import com.prog3.trabalho4.trabalho4.model.Empregado;
+import com.prog3.trabalho4.trabalho4.persistence.EmpregadoDAOImpl;
 
 public class EmpregadoController {
 

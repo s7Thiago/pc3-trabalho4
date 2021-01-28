@@ -1,8 +1,8 @@
-package br.com.prog3.semanapratica2.persistence;
+package com.prog3.trabalho4.trabalho4.persistence;
 
 import java.util.List;
 
-import br.com.prog3.semanapratica2.model.Empregado;
+import com.prog3.trabalho4.trabalho4.model.Empregado;
 
 public interface EmpregadoDAO {
 
